@@ -21,4 +21,4 @@ au User asyncomplete_setup call asyncomplete#register_source(asyncomplete#source
 
 ## Note
 
-Refer to emmet-vim docs for information no how to use expand emmet-vim completion items.
+Refer to emmet-vim docs for information no how to expand emmet-vim completion items.
